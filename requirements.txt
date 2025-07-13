@@ -1,7 +1,7 @@
 streamlit
 opencv-python-headless
+tensorflow
 transformers
 torch
-numpy
 Pillow
-tensorflow
+numpy
