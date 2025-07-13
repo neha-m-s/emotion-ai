@@ -1,6 +1,6 @@
 streamlit
-opencv-python
-numpy
+opencv-python-headless
 transformers
 torch
+numpy
 Pillow
